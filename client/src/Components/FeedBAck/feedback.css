@@ -1,0 +1,38 @@
+.feedback{
+    height: 100%;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 10px auto;
+    background-color: red;
+    border-radius: 20px;
+}
+
+.logo{
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+
+.logoImg{
+    width: 200px;
+}
+
+.imgBackground{
+    height: 200px;
+    width: 100%;
+}
+
+.details{
+    width: 300px;
+    background-color: aqua;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p{
+    font-weight: bold;
+}

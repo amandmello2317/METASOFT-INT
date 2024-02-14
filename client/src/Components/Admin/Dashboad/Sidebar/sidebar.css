@@ -1,0 +1,22 @@
+.sidebar{
+    background-color: rgb(43, 41, 41);
+    height: 100vh;
+    width: 18%;
+   
+}
+
+.sideinfo{
+    width: 284px;
+    height: 40px;
+    background-color: red;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    
+}
